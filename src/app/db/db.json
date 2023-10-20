@@ -7,7 +7,5 @@
       { "id": 5, "title": "Sri Lanka", "code": "SL", "name": "Sri Lanka", "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg" },
       { "id": 6, "title": "Pakistan", "code": "PAK", "name": "Pakistan", "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" }
     ],
-    "matches": [
-      { "won_toss": "country", "ball_first": "some comment", "postId": 1 }
-    ]
+    "matches": []
 }

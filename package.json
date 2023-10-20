@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "ts-node-dev --respawn ./src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc -p ./tsconfig.prod.json"
+    "build": "tsc -p ./tsconfig.prod.json",
+    "production": "node ./dist/server.js"
   },
   "keywords": [
     "express",
